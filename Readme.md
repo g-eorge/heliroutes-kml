@@ -4,6 +4,6 @@ The KML file output by this tool can be used to explore the London Heli-Routes i
 
 ![Heli-Routes in Google Earth](https://github.com/g-eorge/heliroutes-kml/blob/master/data/GE.png?raw=true)
 
-[Download KML](https://github.com/g-eorge/heliroutes-kml/blob/master/data/London Heli-Routes.kml?raw=true). 
+[Download KML](https://github.com/g-eorge/heliroutes-kml/blob/master/data/London%20Heli-Routes.kml?raw=true).
 
 Not for operational use.
