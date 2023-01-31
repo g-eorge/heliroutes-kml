@@ -1,0 +1,54 @@
+Route,Point,Mandatory Report,Lat/Long,Max VFR,Max SVFR,Holding Point,Description
+H2,Iver,N,513157N 0003031W,1000,1000,Y,Delaford Park
+H2,West Drayton,N,512939N 0002909W,1000,1000,,M4 Motorway Crossing of River Colne (1.25 NM west of Airport Spur)
+H2,Airport Spur,Y,512944N 0002715W,1000,1000,Y,Junction of M4 Motorway and Motorway Spur to London Heathrow
+H3,Bagshot,Y,512057N 0004157W,2000,1500,Y,Intersection of London Control Zone/M3 Motorway
+H3,M3 J3,N,512121.06N 0004050.40W,2000,1000,,M3 Motorway Junction 3 (VRP)
+H3,Barrowhills,N,512312.42N 0003440.56W,1500,1000,,Kitsmead Lane Bridge over M3
+H3,Thorpe,N,512402N 0003216W,1500,1000,,M3 Motorway south of Thorpe Green (M25 intersection)
+H3,Chertsey,N,512327.17N 0002845.36W,1200,1000,,Chertsey Road roundabout
+H3,Sunbury Lock,Y,512409N 0002416W,1200,1000,Y,Midway between Sunbury Lock and the middle of Knight reservoir
+H3,Richmond,N,512622.45N 0001749.84W,1500,1000,,Golf Course at western edge of Richmond Park
+H3,Roehampton,N,512728.04N 0001506.76W,1500,1000,,"Golf course east of Roehampton Gate, H7/H3 join"
+H3,Barnes,Y,512827N 0001325W,1500,1000,Y,River Thames at Barn Elms Park and Craven Cottage Football Ground
+H3,London Heliport,Y,512812N 0001046W,1500,1000,Y,
+H4,Isle of Dogs,Y,512902N 0000042W,2000,1500,,Specified Area Boundary crossing River Thames - north abeam Cutty Sark
+H4,London Bridge,N,513027N 0000504W,2000,1500,,London Bridge (road bridge)
+H4,Vauxhall Bridge,Y,512915N 0000736W,2000,1500,,CTR Boundary crossing River Thames
+H4,Chelsea Bridge,Y,512902N 0000900W,1500,1500,,Chelsea Road Bridge
+H4,London Heliport,Y,512812N 0001046W,1500,1500,Y,
+H5,Northwood,Y,513612N 0002719W,2000,1500,Y,Zone Boundary midway between Harefield and Northwood
+H5,Uxbridge Common,N,513332N 0002813W,2000,1500,Y,Roundabout on A40 road north of Uxbridge Common
+H7,Banstead,Y,512014N 0001301W,2000,1500,Y,Golf course northwest of town
+H7,Morden,N,512327N 0001407W,2000,1000,,Cemetery northeast of Gas Works
+H7,Caesars Camp,N,512532N 0001446W,1500,1000,Y,Golf course southwest corner of Wimbledon Common
+H7,Roehampton,N,512728.04N 0001506.76W,1500,1000,,"Golf course east of Roehampton Gate, H7/H3 join"
+H7,Barnes,Y,512827N 0001325W,1500,1000,,River Thames at Barn Elms Park and Craven Cottage Football Ground
+H7,London Heliport,Y,512812N 0001046W,1500,1000,Y,
+H9,Oxshott West,Y,512014N 0002512W,2000,1500,Y,Intersection of London Control Zone/A3 Trunk Road - north abeam large supermarket
+H9,Esher Common,N,512051N 0002210W,1500,1500,,A3 Trunk Road West of A3/A244 intersection
+H9,Oxshot East,Y,512014N 0002006W,2000,1500,Y,Prince’s Coverts
+H9,Arbrook,N,512058N 0002100W,2000,1500,,Intersection of A3 Trunk Road / Railway Line
+H9,Hersham,N,512236.71N 0002323.38W,1200,1000,,Railway Station
+H9,Sunbury Lock,Y,512409N 0002416W,800,800,Y,Midway between Sunbury Lock and the middle of Knight reservoir
+H9,Feltham,N,512630N 0002533W,800,800,Y,Open space south of Railway Line
+H9,Bedfont,N,512732N 0002610W,1000,800,Y,"East of Terminal Four, South of the A30"
+H9,Sipson,N,512900N 0002706W,1000,1000,Y,Hotel Complex northeast of the junction Motorway Spur and Main Road A4 at north perimeter of London Heathrow
+H9,Airport Spur,Y,512944N 0002715W,1000,1000,Y,Junction of M4 Motorway and Motorway Spur to London Heathrow
+H9,Hayes,N,513042N 0002636W,2000,1500,Y,Stockley Park Business Centre
+H9,Gutteridge,N,513254N 0002507W,2000,1500,Y,"A40, south of Northolt Aerodrome Runway Intersection"
+H9,Northwood,Y,513612N 0002719W,2000,1500,Y,Zone Boundary midway between Harefield and Northwood
+H10,Cookham,Y,513345N 0004222W,2000,1500,Y,Bridge over River Thames north of Cookham
+H10,Pumpkin Hill,,513310.04N 0003831.21W,2000,1500,,Golf Course west of Farnham Common
+H10,Stoke Poges,,513233.01N 0003423.36W,1500,1500,,War memorial in Stoke Poges Village
+H10,Iver,,513157N 0003031W,1500,1500,Y,Delaford Park
+H10,Uxbridge Common,,513332N 0002813W,1500,1500,Y,Roundabout on A40 road north of Uxbridge Common
+H10,Gutteridge,,513254N 0002507W,1500,1200,Y,"A40, south of Northolt Aerodrome Runway Intersection"
+H10,Target,,513234.71N 0002240.08W,1500,1200,,Target Roundabout A40
+H10,Hanger Lane,,513149.24N 0001737.66W,1500,1200,,Hanger Lane Junction Station
+H10,Brentford,,512951N 0001731W,1200,800,Y,Gunnersbury Park north of Chiswick Fly-over
+H10,Kew Bridge,,512914N 0001716W,1000,800,Y,Bridge across River Thames at northeast corner of Gardens and Common
+H10,Chiswick Bridge,,512822.96N 0001611.64W,1000,1000,,Chiswick Bridge
+H10,Hammersmith Bridge,,512918.39N 0001349.01W,1500,1000,,Hammersmith Bridge
+H10,Barnes,Y,512827N 0001325W,1500,1000,,River Thames at Barn Elms Park and Craven Cottage Football Ground
+H10,London Heliport,Y,512812N 0001046W,1500,1000,Y,
